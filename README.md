@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Oriane Lanfranchi and I'm a 5th-year Computer Science and Engineering student at Université de Technologie de Compiègne (UTC), in France.
+- 👀 I thrive on addressing technical challenges, particularly when they lead to creative or innovative solutions. In parallel with my studies, I have a strong interest in video game development, which enables me to integrate creativity, technical expertise, and artistic skills with the visual and narrative elements of gaming.
